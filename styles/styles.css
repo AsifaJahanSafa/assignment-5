@@ -1,0 +1,33 @@
+.container{
+    width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logo{
+    color:#030712;
+    font-weight:700;
+    font-size:30px;
+   
+}
+#bus{
+   
+    background:#E5FFE0 ;
+   color:#1DD100;
+   border-color: #1DD100;
+}
+
+ #bus img{
+    border:#1DD100
+ }
+
+ .btn{
+    background:#E5FFE0 ;
+    
+ }
+
+ .cover_description{
+    position: absolute;
+    justify-content: center;
+    
+ }
